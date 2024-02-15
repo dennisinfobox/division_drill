@@ -1,10 +1,10 @@
 # division_drill
 
-Long Division Exercise Generator.
+## Long Division Exercise Generator.
 
 This repository generates a printable set of 6 long division exercises without remainders being present in the calculations.
 
-The footer contains a concise hint key, listed in a readable order, to assist in resolving exercises.
+The footer contains a concise hint key, listed in a readable order, to assist in checking the answers.
 
 Please refer to the included example to understand the layout of the printable rendering.
 
